@@ -1,12 +1,12 @@
+# 🎮 Simon Memory Game
+
+A fun memory challenge game inspired by **Simon Says**, built using **HTML**, **CSS**, and **JavaScript**.
+
 <p align="center">
   <a href="https://vedantgupta27.github.io/Simon--Game/">
     <img src="https://img.shields.io/badge/PLAY%20NOW-00C853?style=for-the-badge&logo=javascript&logoColor=white">
   </a>
 </p>
-
-# 🎮 Simon Memory Game
-
-A fun memory challenge game inspired by **Simon Says**, built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
