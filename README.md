@@ -30,7 +30,7 @@ A fun memory challenge game inspired by **Simon Says**, built using **HTML**, **
 ---
 
 ## 🖼️ Screenshot
-(Add your game screenshot here)
+<img src="https://raw.githubusercontent.com/VedantGupta27/Simon--Game/main/Screenshot%202025-11-15%20135355.png" width="500">
 
 ---
 
